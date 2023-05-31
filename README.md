@@ -1,2 +1,2 @@
-# clock
-Plan to fix so you can see what time on wita and wit from wib and so on
+# clock(WIP)
+Show current time from WIB to WITA and WIT and so on
